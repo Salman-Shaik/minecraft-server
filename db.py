@@ -8,7 +8,7 @@ import argparse
 db_conn_str = "dbname=regress user=craig"
 
 create_table_stm = """
-CREATE TABLE files (
+CREATE TABLE IF NOT EXISTS files (
     id serial primary key,
     orig_filename text not null,
     file_data bytea not null

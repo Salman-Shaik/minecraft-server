@@ -1,0 +1,11 @@
+(node:64820) UnhandledPromiseRejectionWarning: Error: connect ECONNREFUSED 127.0.0.1:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+(node:64820) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:64820) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Error: Connection terminated unexpectedly
+    at Connection.<anonymous> (/Users/salmans/Projects/minecraft-server/node_modules/pg/lib/client.js:132:73)
+    at Object.onceWrapper (events.js:420:28)
+    at Connection.emit (events.js:314:20)
+    at Socket.<anonymous> (/Users/salmans/Projects/minecraft-server/node_modules/pg/lib/connection.js:58:12)
+    at Socket.emit (events.js:314:20)
+    at TCP.<anonymous> (net.js:675:12)
