@@ -18,14 +18,14 @@ time.sleep(1)
 os.system('unzip -o world.zip')
 time.sleep(5)
 print("**script**: starting server")
-os.system('nohup java -Xmx1G -jar server.jar > nohup.out &')
+os.system('nohup java -Xmx512M -Xss512K -jar server.jar > nohup.out &')
 
 while True:
     time.sleep(10)
     result = open('nohup.out', 'r').read().find('Done')
     if result > -1:
         break
-        
+
 print("**script**: server has started!")
 time.sleep(10)
 print("**script**: starting ngrok tcp")
