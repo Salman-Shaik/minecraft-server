@@ -1,0 +1,28 @@
+[10:56:46] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[10:56:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:56:47] [ServerMain/INFO]: Loaded 7 recipes
+[10:56:47] [ServerMain/INFO]: Loaded 1179 advancements
+[10:56:48] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[10:56:48] [Server thread/INFO]: Loading properties
+[10:56:48] [Server thread/INFO]: Default game type: SURVIVAL
+[10:56:48] [Server thread/INFO]: Generating keypair
+[10:56:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:56:48] [Server thread/INFO]: Using default channel type
+[10:56:48] [Server thread/INFO]: Preparing level "world"
+[10:56:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:56:52] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:56:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:56:53] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[10:56:53] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[10:56:53] [Server thread/INFO]: Time elapsed: 4103 ms
+[10:56:53] [Server thread/INFO]: Done (5.155s)! For help, type "help"
+[10:58:47] [User Authenticator #1/INFO]: UUID of player lightmasters587 is 5c2dea48-ea10-424d-b9e9-e70048357764
+[10:58:47] [Server thread/INFO]: lightmasters587[/127.0.0.1:65263] logged in with entity id 206 at (-4.361618328908243, 93.0, -41.95362830822999)
+[10:58:47] [Server thread/INFO]: lightmasters587 joined the game
+[11:00:46] [Server thread/INFO]: lightmasters587 lost connection: Disconnected
+[11:00:46] [Server thread/INFO]: lightmasters587 left the game
